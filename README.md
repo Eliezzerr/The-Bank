@@ -1,8 +1,8 @@
-# The banck 
+# Introdução
 
 Este projeto foi um desafio imposto pelo curso DevQuesst com o intuito de usar pela primeira vez a ferramenta figma para nortear o projeto.
 
-## Layout 
+## App The Banck 
 
 ### Mobile
 
